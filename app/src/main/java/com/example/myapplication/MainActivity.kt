@@ -8,7 +8,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         for (i in 0..19) {
-            // 1111  111
+            // 1111  小木箱 111
             println(i)
         }
     }
